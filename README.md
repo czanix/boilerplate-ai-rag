@@ -2,7 +2,7 @@
 
 > Pipeline de Retrieval-Augmented Generation pronto para produção. Vertex AI, pgvector, embeddings e busca semântica — sem wrapper mágico, sem vendor lock-in.
 
-[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![Vertex AI](https://img.shields.io/badge/Vertex%20AI-Gemini-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/vertex-ai)
 [![PostgreSQL](https://img.shields.io/badge/pgvector-0.7-316192?style=flat&logo=postgresql&logoColor=white)](https://github.com/pgvector/pgvector)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
